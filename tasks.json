@@ -1,24 +1,23 @@
 [
   {
-    "id": 3,
-    "description": "buy protein oats"
+    "id": 1,
+    "description": "buy tracks for gym",
+    "createdAt": "2026-02-09T09:17:37.833Z",
+    "updatedAt": "2026-02-09T09:23:27.503Z",
+    "status": "in-progress"
   },
   {
-    "id": 4,
-    "description": "update bank credentials"
+    "id": 2,
+    "description": "buy eggs",
+    "createdAt": "2026-02-09T09:18:30.817Z",
+    "updatedAt": "2026-02-09T09:23:21.491Z",
+    "status": "in-progress"
   },
   {
-    "id": 5,
-    "description": "Test drive TVS Ronin"
-  },
-  {
-    "id": 6,
-    "description": "Create UI Wireframes"
-  },
-  {
-    "id": 5,
-    "description": "buy milk",
-    "createdAt": "2026-01-26T12:45:48.066Z",
-    "updatedAt": "2026-01-26T12:45:48.066Z"
+    "id": "2Chvj",
+    "description": "fix bugs in task-tracker-cli",
+    "createdAt": "2026-02-09T09:31:15.526Z",
+    "updatedAt": "2026-02-09T09:31:15.526Z",
+    "status": "pending"
   }
 ]
